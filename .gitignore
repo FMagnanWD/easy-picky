@@ -18,4 +18,5 @@
 .phpunit.result.cache
 /phpunit.xml
 .env
+.vscode
 ###< symfony/phpunit-bridge ###
